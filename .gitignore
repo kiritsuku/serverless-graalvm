@@ -1,0 +1,12 @@
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+#Maven
+dependency-reduced-pom.xml
+
+# IntelliJ
+.idea
+*.iml
